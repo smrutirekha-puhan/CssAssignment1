@@ -1,0 +1,88 @@
+body{
+	background-color:#D8DA3D;
+} 
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding:10px;
+	margin-left: -15px;
+	
+}
+ul li{
+	background-color: #FFFFFF;
+	margin: 10px;
+	width:200px;
+	height:20px;
+	padding:10px;
+	border-bottom: 0 solid #000000;
+}
+ul li:nth-child(even){
+	border-right: 8px solid #FF7F00;
+}
+ul li:nth-child(odd){
+	border-right: 8px solid #0000FF;
+}
+
+
+
+h1{
+	font-family: sans-serif;
+	color: #80007E;
+	
+}
+#p2{
+	
+	color: #80007E;
+	font-family: Times;
+	font-size:15px;
+}
+div hr{
+	border-top: dotted 2px;
+	color: #80007E;
+	border-bottom: 0px;
+}
+
+#p3{
+	font-family: Times;
+	font-size:20px;
+	border:2px dashed ;
+	width: 80%;
+	height: 20px;
+	padding: 10px;
+}
+	
+#p4{
+	font-family: Times;
+	font-size:20px;
+	border: 2px dashed #FF0000;
+	width: 80%;
+	text-align: right;
+	font-style:italic;
+	word-spacing:2px;
+	height: 20px;
+	padding: 10px;
+}
+#p6{
+	font-family: "Times New Roman", Times, serif;
+	font-size:20px;
+	border: 1px dashed #0000FF;
+	width: 80%;
+	font-weight:bold;
+	text-align: center;
+	height: 20px;
+	padding: 10px;
+	
+	
+}
+#p5{
+	color: #80007E;
+	font-family:Times;
+	font-style: italic;
+	font-size:15px;
+}
+ .list2{
+	position: relative;
+	top: -245px;
+}
+
+
